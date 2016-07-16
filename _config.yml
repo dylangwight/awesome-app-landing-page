@@ -64,12 +64,12 @@ device: iphone-se-space-gray-vertical # REQUIRED
 #
 # Theme Settings
 #
-background_color: "#989898" # Optional
+background_color: white # Optional
 background_image: #/images/backgrounds/58-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: black # Optional
 link_color: # Optional
 social_link_color: black # Optional
-download_button_background_color: red # Optional
+download_button_background_color: cyan # Optional
 download_button_text_color: black; # Optional
 
 #
@@ -77,8 +77,8 @@ download_button_text_color: black; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: Colorue# Optional - Enter your site title
-description: Draw on your phone and share your creations# Optional - Enter your site description
+title: Colorue # Optional - Enter your site title
+description: Draw on your phone and share your creations # Optional - Enter your site description
 
 #
 # Google Analytics
