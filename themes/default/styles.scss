@@ -46,14 +46,13 @@ a:hover {
 }
 {% endif %}
 
-ul {
-  text-align: left;
-}
-
 //
 // LAYOUT / SECTIONS
 //
 
+.list {
+    text-align: left;
+}
 .container {
   max-width: 980px;
 }
