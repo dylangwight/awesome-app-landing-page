@@ -26,7 +26,14 @@ app:
 # Marketing
 #
 marketing_header: # Optional
-marketing_desc: Colorue is an easy way to draw on your phone and share your creations. Follow your friends and family to see what they make, and find incredible artists displaying their work. From quick doodles to digital masterpieces, express your imagination in full color.\n\nDraw with a simple, but powerful interface:\n• Color mixing to easily create any hue\n• An "under-finger-view" to draw details accurately\n\nShare to Facebook, your followers on Colorue, or simply text a drawing to any of your friends.
+marketing_desc: 
+"Colorue is an easy way to draw on your phone and share your creations. Follow your friends and family to see what they make, and find incredible artists displaying their work. From quick doodles to digital masterpieces, express your imagination in full color.
+
+Draw with a simple, but powerful interface:
+• Color mixing to easily create any hue
+• An 'under-finger-view' to draw details accurately
+
+Share to Facebook, your followers on Colorue, or simply text a drawing to any of your friends."
 
 #
 # Social Links
