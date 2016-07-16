@@ -25,9 +25,8 @@ app:
 #
 # Marketing
 #
-marketing_header: # Optional
+marketing_header: Free drawing-sharing app # Optional
 marketing_desc: Colorue is a free app for drawing on your phone and sharing your creations. Follow your friends and family to see what they make, and find incredible artists displaying their work. From quick doodles to digital masterpieces, express your imagination in full color.
-
 
 #
 # Social Links
