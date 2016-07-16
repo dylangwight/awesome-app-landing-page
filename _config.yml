@@ -69,7 +69,7 @@ background_image: images/IMG_0594.PNG # Optional - Use Relative path e.g. images
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
-download_button_background_color: "#ff8800" # Optional
+download_button_background_color: "#ff0000" # Optional
 download_button_text_color: black; # Optional
 
 #
