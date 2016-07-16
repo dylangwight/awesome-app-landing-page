@@ -64,12 +64,12 @@ device: iphone-se-space-gray-vertical # REQUIRED
 #
 # Theme Settings
 #
-background_color: white # Optional
+background_color: # Optional
 background_image: images/IMG_0594.PNG # Optional - Use Relative path e.g. images/backgrounds/image.jpg
-text_color: black # Optional
+text_color: white # Optional
 link_color: # Optional
-social_link_color: black # Optional
-download_button_background_color: cyan # Optional
+social_link_color: white # Optional
+download_button_background_color: orange # Optional
 download_button_text_color: black; # Optional
 
 #
