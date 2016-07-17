@@ -63,7 +63,7 @@ device: iphone-se-space-gray-vertical # REQUIRED
 #
 # Theme Settings
 #
-background_color: # Optional
+background_color: "#ffa401"# Optional
 background_image: images/landingBg.png # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
