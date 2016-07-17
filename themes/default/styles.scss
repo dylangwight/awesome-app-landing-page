@@ -108,7 +108,7 @@ a:hover {
   margin-bottom: 20px;
   border: none;
   background-color: #0191FF;
-  color: #000;
+  color: #000000;
 
   {% if site.download_button_background_color %}
   background-color: {{ site.download_button_background_color }};
